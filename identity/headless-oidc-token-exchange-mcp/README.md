@@ -35,7 +35,6 @@ scripts/
 
 docs/
   validation-report.md             脱敏验证报告
-  headless-sso-architecture.drawio 架构图源文件
   headless-sso-architecture.png    架构图预览
 ```
 
